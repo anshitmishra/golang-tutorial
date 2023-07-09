@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/anshitmishra/golang-tutorial/blob/main/images/intro.gif" />
+</p>
+
+
 # Go (Golang) Repository
 
 Welcome to our Go (Golang) repository! 🚀 This repository contains a collection of Go projects and code examples to help you learn and explore the Go programming language.
