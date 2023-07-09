@@ -27,7 +27,7 @@ Here is a list of the topics included in this repository:
 
 ### 💡 Variables
 "Variables: Storing and manipulating data with ease."
-- Variables: [link](/variables)
+- Variables: [link](/variable)
 - Variables: [video](https://www.youtube.com/@anshit.03/)
 
 
