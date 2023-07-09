@@ -29,6 +29,7 @@ Here is a list of the topics included in this repository:
 "Variables: Storing and manipulating data with ease."
 - Variables: [link](/variable)
 - Variables: [video](https://www.youtube.com/@anshit.03/)
+- Variables : [Medium Artical](https://medium.com/@roten.x/mastering-go-golang-variables-a-comprehensive-guide-with-examples-for-maximum-programming-power-83595a09a951)
 
 
 Feel free to explore the Topcis and dive into the code. Each project directory contains a separate README file with specific instructions and explanations related to that Topic.
