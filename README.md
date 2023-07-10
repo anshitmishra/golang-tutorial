@@ -38,7 +38,7 @@ Feel free to explore the Topcis and dive into the code. Each project directory c
 
 Here is a list of the projects included in this repository:
 
-- Project 1: [basic server with golang](/projects/calculator)
+- Project 1: [basic calculator](/projects/calculator)
 - Project 2: [CURD APIs](/project-2)
 - Project 3: [management project](/project-3)
 
