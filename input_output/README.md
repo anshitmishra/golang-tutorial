@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://github.com/anshitmishra/golang-tutorial/blob/main/images/variable/one.webp" />
+  <img src="https://github.com/anshitmishra/golang-tutorial/blob/main/images/io/one.gif" />
 </p>
 
 # Go (Golang) Variables
