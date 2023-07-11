@@ -1,16 +1,13 @@
-<p align="center" >
-  <img src="https://github.com/anshitmishra/golang-tutorial/blob/main/images/variable/one.webp" />
-</p>
 
-# Go (Golang) Variables
+# Go (Golang) Simple calculator
 
-Welcome to the Go (Golang) Variables repository! 🚀 This repository is dedicated to explaining the concept of variables in the Go programming language.
+Welcome to the Go (Golang) simple calculator repository! 🚀 This repository is dedicated to explaining the concept of simple calculator in the Go programming language.
 
 ## 📚 Introduction
 
-In Go, variables are used to store and manipulate data. They provide a way to hold values of different types such as numbers, strings, and more. Understanding how variables work in Go is essential for writing effective and flexible programs.
+In Go, simple calculator are used to store and manipulate data. They provide a way to hold values of different types such as numbers, strings, and more. Understanding how simple calculator work in Go is essential for writing effective and flexible programs.
 
-This repository aims to provide an in-depth understanding of variables in Go, covering topics such as variable declaration, initialization, data types, scope, and best practices.
+This repository aims to provide an in-depth understanding of simple calculator in Go, covering topics such as variable declaration, initialization, data types, scope, and best practices.
 
 ## 📂 Code Structure
 
