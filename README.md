@@ -37,6 +37,12 @@ Here is a list of the topics included in this repository:
 - Input/Output: [video](https://www.youtube.com/@anshit.03/)
 - Input/Output : [Medium Artical](https://medium.com/@roten.x/exploring-input-output-strconv-strings-and-bufio-in-go-golang-67f41ab74893)
 
+### 📍 Pointers
+"Pointers: a pointer is a variable that holds the memory address of another variable"
+- Pointers: [link](/pointers)
+- Pointers: [video](https://www.youtube.com/@anshit.03/)
+- Pointers : [Medium Artical](https://medium.com/@roten.x/understanding-pointers-in-go-golang-5718d1d6b918)
+
 
 Feel free to explore the Topcis and dive into the code. Each project directory contains a separate README file with specific instructions and explanations related to that Topic.
 
