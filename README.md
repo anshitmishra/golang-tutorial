@@ -31,7 +31,7 @@ Here is a list of the topics included in this repository:
 - Variables: [video](https://www.youtube.com/@anshit.03/)
 - Variables : [Medium Artical](https://medium.com/@roten.x/mastering-go-golang-variables-a-comprehensive-guide-with-examples-for-maximum-programming-power-83595a09a951)
 
-### ⌨️💡 Input/Output
+### ⌨️ Input/Output
 "Input/Output: take input from user and display."
 - Input/Output: [link](/input_output)
 - Input/Output: [video](https://www.youtube.com/@anshit.03/)
