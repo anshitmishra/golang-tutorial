@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/pointer/one.gif" alt="Go Pointers Icon" width="200" height="200">
+  <img src="/images/pointer/one.gif" alt="Go Pointers Icon"  height="200">
 </div>
 
 # 📌 Go Pointers: An Introduction
