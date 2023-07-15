@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/maps/one.png" alt="Go Map Icon" width="200" height="200">
+  <img src="/images/maps/one.png" alt="Go Map Icon" >
 </div>
 
 # Go Maps: An Introduction

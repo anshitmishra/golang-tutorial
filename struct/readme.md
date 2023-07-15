@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/images/structs/one.webp" alt="Go Struct Icon" width="200" height="200">
+  <img src="/images/structs/one.webp" alt="Go Struct Icon" >
 </div>
 
 # Go Structs: A Comprehensive Guide
