@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello This is First Lec 04 array")
+	fmt.Println("Hello This is Lec 04 array")
 
 	var fruitList [4]string
 
