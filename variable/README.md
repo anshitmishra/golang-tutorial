@@ -26,7 +26,7 @@ boolean variable only have two values true/false
 ```go
 	// bool
 	var isUserName bool = true
-	fmt.Println("username is available => ", isUserName)
+	fmt.Println("username is available => ", isUserName) // return value in true / false
 	fmt.Printf("username is available type is %T \n", isUserName)
 ```
 
