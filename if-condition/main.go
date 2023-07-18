@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello This is Lec 07 array")
+	fmt.Println("Hello This is Lec 07 if condition")
 
 	var age int
 
