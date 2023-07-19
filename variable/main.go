@@ -45,7 +45,8 @@ func main() {
 	// default values and aliaese
 
 	var initNumber int
-	fmt.Println("initial number => ", initNumber) // no garbage value if you did't add any value it always take 0 as default value
+	// no garbage value if you did't add any value it always take 0 as default value
+	fmt.Println("initial number => ", initNumber) 
 
 	// implicit type
 	var website = "https://github.com/anshitmishra"
