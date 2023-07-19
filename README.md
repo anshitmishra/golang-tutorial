@@ -63,7 +63,6 @@ Here is a list of the topics included in this repository:
 - Struct: [video](https://www.youtube.com/@anshit.03/)
 - Struct : [Medium Artical](https://medium.com/@roten.x/go-arrays-and-slices-a-comprehensive-guide-cfc094dcab2)
 
-
 Feel free to explore the Topcis and dive into the code. Each project directory contains a separate README file with specific instructions and explanations related to that Topic.
 
 ## 📂 Projects
