@@ -59,6 +59,6 @@ func main() {
 
 	// const and public keyword
 	const LoginToken string = "s12kj3n2kn312n"
-	fmt.Println(LoginToken) // when we make first word of variable capital it is consider as public  it can be accessed by any function under the scope
-
+	// when we make first word of variable capital it is consider as public  it can be accessed by any function under the scope
+	fmt.Println(LoginToken) 
 }
